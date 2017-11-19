@@ -9,7 +9,8 @@ $network="share"
 
 # Docker配置
 $subnet="192.168.10.1/24"
-$http_proxy="http://172.17.18.80:80"
+$http_proxy=""
+#$http_proxy="http://172.17.18.80:80"
 $no_proxy="localhost"
 $mirror="https://3qjmpcfe.mirror.aliyuncs.com"
 $registry="registry.cn-hangzhou.aliyuncs.com:80"
