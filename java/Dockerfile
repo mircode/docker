@@ -19,5 +19,8 @@ WORKDIR $APP_HOME
 # install
 COPY ./$app/ ./
 
+# install tools
+RUN apt-get update && apt-get install vim tree -y
+
 # start
 CMD ["./start.sh"]
