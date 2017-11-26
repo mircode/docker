@@ -1,0 +1,1 @@
+{  "registry-mirrors": [    "https://3qjmpcfe.mirror.aliyuncs.com",    "http://ff386c86.m.daocloud.io"  ],  "insecure-registries": [    "registry.cn-hangzhou.aliyuncs.com:80"  ],  "debug": true,  "experimental": true,  "bip": "192.168.10.1/24"}

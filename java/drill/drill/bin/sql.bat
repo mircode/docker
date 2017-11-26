@@ -1,0 +1,1 @@
+sqlline.bat -u "jdbc:drill:drillbit=localhost:31010"
