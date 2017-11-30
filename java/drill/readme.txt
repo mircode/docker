@@ -96,3 +96,8 @@ show files in dfs.tmp.`log2/2016`;
 
 # 空处理
 https://drill.apache.org/docs/text-files-csv-tsv-psv/
+
+
+# 学习博客
+https://blog.gmem.cc/apache-drill-study-note
+https://www.yuanmas.com/info/n4ObRv9MOw.html

@@ -1,2 +1,3 @@
 #!/bin/bash
-./load.sh date=20160101-20170101 saveby=month file=/log_month
+file=$1
+./load.sh date=20150501-20171201 saveby=month file=${file:-"log_month"}

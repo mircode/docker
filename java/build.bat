@@ -6,4 +6,4 @@ docker image prune --force
 
 docker container rm -f %app%
 docker run -d --name %app%  %app%:latest
-docker exec -it %app% sh
+docker exec -it %app% bash
